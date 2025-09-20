@@ -1,30 +1,24 @@
 {
     "$schema": "https://go.kicad.org/pcm/schemas/v1",
-    "name": "Model Railroading KiCad Library",
+    "name": "KiCad Library for Model Railroading",
     "description": "KiCad symbol and footprint library focused around common components and designs used in the model railroading industry.",
     "description_full": "WIP",
-    "identifier": "com.github.mckrigsman.model-railroading-kicad-library",
+    "identifier": "com.github.mckrigsman.kl4mr",
     "type": "library",
     "author": {
         "name": "Matias Krigsman",
         "contact": {
-            "web": "https://github.com/mckrigsman/"
+            "github": "https://github.com/mckrigsman"
         }
     },
     "license": "CC-BY-SA-4.0",
     "resources": {
-        "github": "https://github.com/mckrigsman/model-railroading-kicad-library",
-        "documentation": "-",
-        "support": "-"
+        "github": "https://github.com/mckrigsman/model-railroading-kicad-library"
     },
-    "tags": [
-        "footprints",
-        "symbols"
-    ],
     "versions": [
         {
-            "version": "1.0.0",
-            "status": "stable",
+            "version": "0.9.0",
+            "status": "testing",
             "kicad_version": "9.0"
         }
     ]
