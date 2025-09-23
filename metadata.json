@@ -1,8 +1,8 @@
 {
     "$schema": "https://go.kicad.org/pcm/schemas/v1",
     "name": "KiCad Library for Model Railroading",
-    "description": "KiCad symbol and footprint library focused around common components and designs used in the model railroading industry.",
-    "description_full": "WIP",
+    "description": "A collection of symbols and footprints focused around DCC decoders.",
+    "description_full": "A collection of symbols and footprints focused around DCC decoders (and other similar gadgets) commonly used in the model railroading industry.",
     "identifier": "com.github.mckrigsman.kl4mr",
     "type": "library",
     "author": {
@@ -13,11 +13,11 @@
     },
     "license": "CC-BY-SA-4.0",
     "resources": {
-        "github": "https://github.com/mckrigsman/model-railroading-kicad-library"
+        "github": "https://github.com/mckrigsman/kl4mr"
     },
     "versions": [
         {
-            "version": "0.9.0",
+            "version": "0.1.0",
             "status": "testing",
             "kicad_version": "9.0"
         }
