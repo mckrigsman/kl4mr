@@ -1,0 +1,3 @@
+# Ignore .bak and .zip files
+*.bak
+*.zip
