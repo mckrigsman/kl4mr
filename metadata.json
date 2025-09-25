@@ -1,6 +1,6 @@
 {
     "$schema": "https://go.kicad.org/pcm/schemas/v1",
-    "name": "KiCad Library for Model Railroading",
+    "name": "KL4MR - KiCad Library for Model Railroading",
     "description": "A collection of symbols and footprints focused around DCC decoders.",
     "description_full": "A collection of symbols and footprints focused around DCC decoders (and other similar gadgets) commonly used in the model railroading industry.",
     "identifier": "com.github.mckrigsman.kl4mr",
