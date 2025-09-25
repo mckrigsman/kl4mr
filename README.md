@@ -1,3 +1,5 @@
+![](/resources/icon256.png)
+
 # KL4MR - KiCad Library for Model Railroading
 This KiCad library is a collection of symbols and footprints focused around DCC decoders (and other similar gadgets) commonly used in the model railroading industry.
 
