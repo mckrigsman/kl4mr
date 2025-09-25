@@ -1,1 +1,2 @@
-# Nothing here for now
+# Ignore .bak files
+*.bak
